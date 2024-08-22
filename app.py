@@ -37,7 +37,7 @@ with st.sidebar:
         st.write("No history yet")
 
 # App title and chat input
-st.title(" :blue[BARHMASTRA] | AI :trident:")
+st.title(" :blue[BRAHMASTRA] | AI :trident:")
 st.markdown('''
 <style>
 .big-font {
